@@ -39,7 +39,7 @@ $(document).ready(function() {
       msg.default;
       msg.URI = 'native';
       msg.lang = "en-US";
-      msg.rate = 0.85;
+      msg.rate = 0.8;
 
       $speechInput = $("#speech");
       $recBtn = $("#rec");
