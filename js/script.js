@@ -138,7 +138,7 @@ function displayVideo(videoUrl) {
 //POWERPOINT 1
 function showPpt(text) {
 
-      if(text == "sure, i will get started with our digital world"){
+      if(text == "Sure, I will get started with our digital world - Powerpoint Version 361"){
             modal3.style.display = "block";
             console.log("CLICKED again and again");
       };
