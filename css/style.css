@@ -18,7 +18,7 @@ body {
   position: fixed;
   top: 45%;
   left: 50%;
-    width: 70vw;
+    width: 80vw;
   -webkit-transform: translate(-50%, -50%);
 }
 
